@@ -1,9 +1,5 @@
 with 
--- cte as 
--- (select p.product_name, o.unit ,  o.product_id   
--- from Products as p
--- join Orders as o
--- on p.product_id  = o.product_id ),
+
 
 cte2 as(select o.product_id,p.product_name, sum(o.unit) as unit 
 from  Orders as o 

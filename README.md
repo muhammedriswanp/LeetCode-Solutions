@@ -7,5 +7,6 @@ My daily LeetCode solutions
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [1667-fix-names-in-a-table](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->

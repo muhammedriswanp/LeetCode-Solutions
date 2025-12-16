@@ -15,4 +15,5 @@ My daily LeetCode solutions
 | [1527-patients-with-a-condition](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
+| [1795-rearrange-products-table](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1795-rearrange-products-table) |
 <!---LeetCode Topics End-->

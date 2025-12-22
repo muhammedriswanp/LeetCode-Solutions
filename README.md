@@ -19,4 +19,5 @@ My daily LeetCode solutions
 | [1741-find-total-time-spent-by-each-employee](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1795-rearrange-products-table](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1795-rearrange-products-table) |
 | [1907-count-salary-categories](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1907-count-salary-categories) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->

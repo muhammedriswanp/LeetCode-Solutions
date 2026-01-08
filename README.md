@@ -55,9 +55,14 @@ My daily LeetCode solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->

@@ -30,10 +30,12 @@ My daily LeetCode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -42,4 +44,20 @@ My daily LeetCode solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

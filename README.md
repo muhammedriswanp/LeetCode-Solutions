@@ -47,6 +47,7 @@ My daily LeetCode solutions
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -65,4 +66,12 @@ My daily LeetCode solutions
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0190-reverse-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

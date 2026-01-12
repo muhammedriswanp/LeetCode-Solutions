@@ -35,11 +35,13 @@ My daily LeetCode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -61,6 +63,7 @@ My daily LeetCode solutions
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |

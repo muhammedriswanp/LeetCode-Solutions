@@ -15,6 +15,7 @@ My daily LeetCode solutions
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0607-sales-person](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0607-sales-person) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1179-reformat-department-table](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1179-reformat-department-table) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1517-find-users-with-valid-e-mails) |

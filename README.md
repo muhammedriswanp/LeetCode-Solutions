@@ -51,6 +51,7 @@ My daily LeetCode solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -78,4 +79,12 @@ My daily LeetCode solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

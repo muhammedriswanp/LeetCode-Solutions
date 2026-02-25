@@ -32,6 +32,7 @@ My daily LeetCode solutions
 | ------- |
 | [0001-two-sum](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ My daily LeetCode solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Stack
 |  |
 | ------- |
@@ -87,4 +89,8 @@ My daily LeetCode solutions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->

@@ -35,6 +35,7 @@ My daily LeetCode solutions
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2942-find-words-containing-character](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ My daily LeetCode solutions
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2942-find-words-containing-character](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 ## Stack
 |  |
 | ------- |

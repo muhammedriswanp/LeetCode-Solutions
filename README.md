@@ -36,6 +36,7 @@ My daily LeetCode solutions
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2942-find-words-containing-character](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
+| [3024-type-of-triangle](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ My daily LeetCode solutions
 | [0070-climbing-stairs](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [3024-type-of-triangle](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +78,7 @@ My daily LeetCode solutions
 | ------- |
 | [0242-valid-anagram](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [3024-type-of-triangle](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 ## Divide and Conquer
 |  |
 | ------- |

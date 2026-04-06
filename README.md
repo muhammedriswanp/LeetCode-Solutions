@@ -76,6 +76,7 @@ My daily LeetCode solutions
 | [0268-missing-number](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 ## Binary Search
 |  |

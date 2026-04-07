@@ -34,6 +34,7 @@ My daily LeetCode solutions
 | [0268-missing-number](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1436-destination-city) |
+| [1480-running-sum-of-1d-array](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -126,4 +127,8 @@ My daily LeetCode solutions
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

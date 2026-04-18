@@ -60,6 +60,7 @@ My daily LeetCode solutions
 | [0020-valid-parentheses](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1436-destination-city](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1436-destination-city) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -124,6 +125,7 @@ My daily LeetCode solutions
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Counting Sort
 |  |
 | ------- |

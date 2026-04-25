@@ -69,6 +69,7 @@ My daily LeetCode solutions
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
+| [3019-number-of-changing-keys](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/3019-number-of-changing-keys) |
 ## Stack
 |  |
 | ------- |

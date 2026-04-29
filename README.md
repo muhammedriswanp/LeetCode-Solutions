@@ -35,6 +35,7 @@ My daily LeetCode solutions
 | [0349-intersection-of-two-arrays](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |

@@ -88,6 +88,7 @@ My daily LeetCode solutions
 | [0258-add-digits](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -130,6 +131,7 @@ My daily LeetCode solutions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [1688-count-of-matches-in-tournament](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Number Theory

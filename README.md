@@ -47,6 +47,7 @@ My daily LeetCode solutions
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
@@ -157,6 +158,7 @@ My daily LeetCode solutions
 | ------- |
 | [0724-find-pivot-index](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

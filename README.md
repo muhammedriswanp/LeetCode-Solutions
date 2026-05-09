@@ -35,6 +35,7 @@ My daily LeetCode solutions
 | [0349-intersection-of-two-arrays](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -132,6 +133,7 @@ My daily LeetCode solutions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [1389-create-target-array-in-the-given-order](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |

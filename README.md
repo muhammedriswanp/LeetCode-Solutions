@@ -52,6 +52,7 @@ My daily LeetCode solutions
 | [2798-number-of-employees-who-met-the-target](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@ My daily LeetCode solutions
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |

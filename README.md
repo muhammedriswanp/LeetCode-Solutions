@@ -53,6 +53,7 @@ My daily LeetCode solutions
 | [2942-find-words-containing-character](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ My daily LeetCode solutions
 | [1512-number-of-good-pairs](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3668-restore-finishing-order](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
 ## String
 |  |
 | ------- |

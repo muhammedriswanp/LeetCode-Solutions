@@ -55,6 +55,7 @@ My daily LeetCode solutions
 | [3024-type-of-triangle](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
+| [3925-concatenate-array-with-reverse](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@ My daily LeetCode solutions
 | [1688-count-of-matches-in-tournament](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3925-concatenate-array-with-reverse](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
 | ------- |

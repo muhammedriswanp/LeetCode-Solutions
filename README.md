@@ -34,6 +34,7 @@ My daily LeetCode solutions
 | [0268-missing-number](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -64,6 +65,7 @@ My daily LeetCode solutions
 | [0242-valid-anagram](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -76,6 +78,7 @@ My daily LeetCode solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1436-destination-city](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1436-destination-city) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -163,6 +166,7 @@ My daily LeetCode solutions
 ## Counting
 |  |
 | ------- |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1512-number-of-good-pairs](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/muhammedriswanp/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Counting Sort
